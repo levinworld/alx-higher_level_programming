@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# 2-args.py
-#levinbanks <masabaivan@outlook.com>
 
 if __name__ == "__main__":
     """Print the number of and list of arguments."""
